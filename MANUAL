@@ -1,4 +1,4 @@
-. In this article, we will visualize Bubble Sort using JavaScript. We will see how the elements are swapped in Bubble Sort and how we get the final sorted array. We will also visualize the time complexity of Bubble Sort. 
+. In this project, we will visualize Bubble Sort using JavaScript. We will see how the elements are swapped in Bubble Sort and how we get the final sorted array. We will also visualize the time complexity of Bubble Sort. 
  Approach:
 
 1.First, we will generate a random array using Math.random() function.
